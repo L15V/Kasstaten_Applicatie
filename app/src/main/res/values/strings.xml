@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Kasstaten Tool</string>
     <string name="InvullerString">Naam invullende</string>
+    <string name="naam">Naam</string>
+    <string name="sb_middag">Soosbeheerder middag</string>
+    <string name="sb_avond">Soosbeheerder avond</string>
+    <string name="sb_gelegenheid">Soosbeheerder gelegenheid</string>
+    <string name="Datum">Datum</string>
+    <string name="Dag">Dag</string>
+    <string name="aMensen">Geschat aantal mensen</string>
 </resources>

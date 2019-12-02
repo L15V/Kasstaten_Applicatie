@@ -2,4 +2,10 @@
 <resources>
     <string name="app_name">Kasstaten Tool</string>
     <string name="InvullerString">Entering name</string>
+    <string name="naam">Name</string>
+    <string name="sb_middag">Soos steward afternoon</string>
+    <string name="sb_avond">Soos steward evening</string>
+    <string name="sb_gelegenheid">Soos steward occasion</string>
+    <string name="Datum">Date</string>
+    <string name="aMensen">estimated number of people</string>
 </resources>
