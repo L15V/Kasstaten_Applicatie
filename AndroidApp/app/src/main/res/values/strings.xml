@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Virgo_Kasstaat</string>
+    <string name="app_name">Kasstaten Tool</string>
+    <string name="InvullerString">Naam invullende</string>
 </resources>
